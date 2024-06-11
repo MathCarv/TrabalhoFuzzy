@@ -18,8 +18,8 @@ Siga as etapas abaixo para configurar e executar o projeto:
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu_usuario/seu_projeto.git
-   cd seu_projeto
+   git clone https://github.com/MathCarv/TrabalhoFuzzy.git
+   cd TrabalhoFuzzy
    ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
