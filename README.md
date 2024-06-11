@@ -1,6 +1,6 @@
 # Controle Fuzzy para Elevador
 
-
+![Background](Assets/backgroundReadme.jpg)
 
 ## Introdução
 
