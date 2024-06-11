@@ -52,7 +52,7 @@ Se você quiser contribuir com este projeto, sinta-se à vontade para fazer um f
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato através do e-mail [seu_email@dominio.com](mailto:seu_email@dominio.com).
+Para dúvidas ou sugestões, entre em contato através do e-mail [matheus.camara@gec.inatel.br](mailto:seu_email@dominio.com).
 
 ---
 
