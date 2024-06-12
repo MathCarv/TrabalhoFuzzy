@@ -1,0 +1,22 @@
+# Ignorar arquivos de ambiente
+Variables.env
+
+# Ignorar diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios de build
+/build/
+/dist/
+*.egg-info/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretório de configuração de IDEs
+.idea/
+.vscode/
+
+# Ignorar arquivos de Python
+__pycache__/
+*.pyc
